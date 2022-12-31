@@ -1,0 +1,15 @@
+D:\C_sharp\Itogwork\task\bin\Debug\net7.0\task.exe
+D:\C_sharp\Itogwork\task\bin\Debug\net7.0\task.deps.json
+D:\C_sharp\Itogwork\task\bin\Debug\net7.0\task.runtimeconfig.json
+D:\C_sharp\Itogwork\task\bin\Debug\net7.0\task.dll
+D:\C_sharp\Itogwork\task\bin\Debug\net7.0\task.pdb
+D:\C_sharp\Itogwork\task\obj\Debug\net7.0\task.csproj.AssemblyReference.cache
+D:\C_sharp\Itogwork\task\obj\Debug\net7.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp\Itogwork\task\obj\Debug\net7.0\task.AssemblyInfoInputs.cache
+D:\C_sharp\Itogwork\task\obj\Debug\net7.0\task.AssemblyInfo.cs
+D:\C_sharp\Itogwork\task\obj\Debug\net7.0\task.csproj.CoreCompileInputs.cache
+D:\C_sharp\Itogwork\task\obj\Debug\net7.0\task.dll
+D:\C_sharp\Itogwork\task\obj\Debug\net7.0\refint\task.dll
+D:\C_sharp\Itogwork\task\obj\Debug\net7.0\task.pdb
+D:\C_sharp\Itogwork\task\obj\Debug\net7.0\task.genruntimeconfig.cache
+D:\C_sharp\Itogwork\task\obj\Debug\net7.0\ref\task.dll
